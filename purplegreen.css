@@ -1,0 +1,86 @@
+body {
+	background: url('https://kagi.com/proxy/bpcbgbeesroom.png?c=30yG3ZTaNrRay951PXCpgSskqag5jdU_0roiAuSMEoxi9u8ubN2rIgvSz4I13rFd853i8TuVgZ87QKNreP__UP21sroxFedOfY7ZHdi9bdE%3D') center/cover no-repeat;
+	font-family: system-ui;
+
+	margin: 0px;
+	object-fit: cover;
+	padding: 0px;
+	position: absolute;
+	width: 100%;
+}
+
+.m-h,
+._0_shlsidebar,
+.a-w content-area,
+._0_content-area,
+.top-nav,
+.app-box-center,
+.app-header,
+.app-content-box {
+	background-color: white;
+}
+
+.filter-item {
+	border: 1px solid #0900ec8a;
+	border-radius: 20px;
+	display: flex;
+	height: 28px !important;
+	background-color: #c7c1fc80;
+}
+
+.search-form .search-input-container {
+	border-radius: 30px;
+	z-index: 50;
+	box-shadow: 3px 3px #cabdff, 1px 0 .25rem olive;
+
+
+}
+
+
+#help_modal .section-title,
+.btn.--lg,
+.button-primary,
+.font-lufga,
+.quick-settings-header__title,
+.search-form #searchFormSubmitBtn,
+.search-form .search-input-title,
+.inlineHeader {
+	font-family: system-ui;
+}
+
+.wikipediaResult .wikipediaContent {
+	position: relative;
+	background-color: #baa7f345;
+	border-radius: 10px;
+	box-shadow: 2px 3px #cabdff, -3px -3px #80800078;
+
+
+}
+
+#quickPeekResults .inlineHeader,
+#quickPeekResults details {
+
+	background-color: #b998f138;
+	border-bottom: 1px #66399b solid;
+	border-radius: 10px;
+}
+
+
+.__sri-url {
+	background: #16d32b14;
+	border-radius: 5px;
+	border: none;
+}
+
+.search-result,
+.sri-group {
+	border-bottom: none;
+}
+
+.inlineHeader {
+	font-family: system-ui;
+	font-size: 25px;
+	color: #6f5ec6;
+	letter-spacing: 2px;
+	text-shadow: -1px 3px 1px #e8cfefe8;
+}
